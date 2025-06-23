@@ -5,14 +5,14 @@
    ## Magic Function Profile 💻
    Below is a JSON representation of my hacker profile, showcasing my skills and tools.
 
-   ```json
-   "cassandra-sudo": {
-       "code": ["Python 🐍", "Java ☕", "Bash 💻"],
-       "tools": ["Wireshark 🌐", "Metasploit 🔧", "Nmap 🕵️‍♀️"],
-       "framework": ["Kali Linux 🐧", "Burp Suite 🕸️"],
-       "security": ["Penetration Testing 🔒", "Cryptography 🔑", "Threat Mitigation 🚨"]
+```json
+"cassandra-sudo": {
+   "code": ["Python 🐍", "Java ☕", "Bash 💻"],
+   "tools": ["Wireshark 🌐", "Metasploit 🔧", "Nmap 🕵️‍♀️"],
+   "framework": ["Kali Linux 🐧", "Burp Suite 🕸️"],
+   "security": ["Penetration Testing 🔒", "Cryptography 🔑", "Threat Mitigation 🚨"]
    }
-   ```
+```
 
    ### How to Use 🌐
    - This JSON block is a static representation of my profile and is displayed directly in the README.

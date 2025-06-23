@@ -1,40 +1,48 @@
-# 👤 cassandra-sudo - GitNet Cybersecurity Expert
+# Cassandra Sudo - GitNet Cybersecurity Expert
 
-🔒 **Bio**: Seasoned cybersecurity specialist mastering Linux commands, networking, and threat mitigation. Proficient in Python 🐍 and Java ☕ for secure solutions.
+   **Bio**: Seasoned cybersecurity specialist mastering Linux commands, networking, and threat mitigation. Proficient in Python and Java for secure solutions.
 
-## 📌 Pinned Repositories
-| Repository            | Description                              | Languages         |
-|-----------------------|------------------------------------------|-------------------|
-| [LinuxCommands]       | Essential Linux commands with examples   | Python 🐍         |
-| [NetworkSec]          | Networking tools and security scripts    | Python 🐍, Java ☕ |
-| [CyberDefense]        | Cybersecurity projects and tutorials     | Java ☕            |
+   ## Magic Function Profile
+   Below is a self-contained HTML and JavaScript code block that displays my hacker profile. This can be copied into an `index.html` file and opened in a browser with a local server to see it in action.
 
-## 💻 Core Expertise
-```html
-<div style="display: flex; gap: 10px;">
-  <a href="#linux" style="text-decoration: none;">
-    <button style="background-color: #228B22; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Linux Commands</button>
-  </a>
-  <a href="#networking" style="text-decoration: none;">
-    <button style="background-color: #4682B4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Networking</button>
-  </a>
-  <a href="#cybersecurity" style="text-decoration: none;">
-    <button style="background-color: #8B0000; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Cybersecurity</button>
-  </a>
-</div>
-```
+   ```html
+   <!DOCTYPE html>
+   <html lang="es">
+   <head>
+       <meta charset="UTF-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>Cassandra Sudo Profile</title>
+       <style>
+           body { background-color: #1a1a2e; color: white; font-family: Arial, sans-serif; }
+           .profile { padding: 20px; border-radius: 10px; background-color: #16213e; margin: 20px; }
+           .skill { display: inline-block; padding: 10px; margin: 5px; border-radius: 5px; }
+       </style>
+   </head>
+   <body>
+       <div class="profile">
+           <h2 style="color: #ff6f61;">Cassandra Sudo - GitNet Cybersecurity Expert</h2>
+           <p style="color: #e0e0e0;">Seasoned cybersecurity specialist mastering Linux commands, networking, and threat mitigation. Proficient in Python and Java for secure solutions.</p>
+           <h3 style="color: #ff9f43;">Skills</h3>
+           <div>
+               <span class="skill" style="background-color: #00FF00;"><strong>Linux Mastery</strong> - Expert</span>
+               <span class="skill" style="background-color: #FF00FF;"><strong>Networking</strong> - Advanced</span>
+               <span class="skill" style="background-color: #FFFF00;"><strong>Python</strong> - Proficient</span>
+               <span class="skill" style="background-color: #00FFFF;"><strong>Java</strong> - Proficient</span>
+               <span class="skill" style="background-color: #FF4500;"><strong>Penetration Testing</strong> - Advanced</span>
+               <span class="skill" style="background-color: #FF1493;"><strong>Cryptography</strong> - Intermediate</span>
+               <span class="skill" style="background-color: #1E90FF;"><strong>Problem Solving</strong> - Expert</span>
+               <span class="skill" style="background-color: #ADFF2F;"><strong>Team Collaboration</strong> - Advanced</span>
+           </div>
+           <p style="color: #e0e0e0;">Location: Mexico City</p>
+           <p style="color: #e0e0e0;">Freelance: Yes</p>
+       </div>
+   </body>
+   </html>
+   ```
 
-## 💻 Skills
-- **Linux**: Command-line expertise
-- **Networking**: Protocols and security
-- **Cybersecurity**: Threat detection and defense
-- **Languages**: Python 🐍, Java ☕
+   ### How to Use
+   - Copy the code block above into a file named `index.html`.
+   - Open it in a web browser using a local server (e.g., with `live-server` by running `npx live-server` in the terminal after installing Node.js).
+   - This will render a colorful profile page.
 
-## 🌟 Stats
-- Contributions: Check my [activity graph](#)
-- Stars: Supporting open-source security projects
-
-## 🚀 Get in Touch
-- [X](https://x.com/chincua_sierra)
-
-*Last updated: June 22, 2025, 03:36 PM CST*
+   **Note**: The JavaScript version requires a server to run dynamically; the static HTML here is for display purposes in the README.
